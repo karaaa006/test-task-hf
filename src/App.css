@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.form {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.inputLabel {
+  display: block;
+  margin-bottom: 10px;
+}
+.labelText {
+  display: block;
+}
+.input {
+  text-align: center;
+}
+.bodyRow {
+  cursor: pointer;
+}
+.bodyRow:hover {
+  background-color: #eeeeee;
+}
+.footRow {
+  background-color: #00ff00;
+}
+
+td {
+  padding: 10px;
+}
